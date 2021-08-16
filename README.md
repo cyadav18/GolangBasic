@@ -1,0 +1,3 @@
+# GolangBasic
+
+practicing golang
