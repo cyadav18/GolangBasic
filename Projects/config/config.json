@@ -1,0 +1,7 @@
+{
+  "PORT": "8081",
+  "POSTGRES_USER": "postgres",
+  "POSTGRES_PASSWORD": "password",
+  "LOG_PATH": "C:\\Users\\CYD\\GolandProjects\\Projects\\Logs",
+  "LOG_LEVEL": "debug"
+}
